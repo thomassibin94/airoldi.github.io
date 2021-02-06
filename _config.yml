@@ -8,8 +8,8 @@ url: "https://airoldi.github.io" # the base hostname & protocol for your site
 twitter_username: airoldi
 github_username:  airoldi
 arxiv_url: " http://arxiv.org/a/airoldi_e_1"
+orcid: 0000-0002-3512-0542
 #author:
-#  orcid: 0000-0002-3512-0542
 
 # Build settings
 markdown: kramdown
