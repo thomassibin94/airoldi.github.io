@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lab Group
+title: Research Group 
 permalink: /labgroup/
 ---
 
@@ -8,9 +8,9 @@ Current members of my group and alumni (listing first job):
 
 Postdoctoral Fellows at Temple (solely and jointly supervised)
 
-* Kathryn Turnbull (PhD Lancaster U), 2020 –
-* Marios Papamichalis (PhD Purdue), 2020 –
-* Chenchen Cai (PhD Rutgers), 2020 –
+* Kathryn Turnbull (PhD Lancaster U), 2020–
+* Marios Papamichalis (PhD Purdue), 2020–
+* Chenchen Cai (PhD Rutgers), 2020–
     
 PhD Students at Temple (solely and jointly supervised)
 
@@ -31,21 +31,21 @@ Other PhD Thesis Committees while at Temple
 
 Postdoctoral Fellows at Harvard (solely and jointly supervised)
 
-* [Amir Ghasemian](https://aghasemian.github.io/) (PhD U Colorado, Boulder), 2019 –
-* Laura Forastiere (PhD Firenze), 2017 – 19, Assistant Professor, Yale University
-* Vishesh Karwa (PhD Penn State), 2014 – 17. Assistant Professor, Ohio State University
-* Daniel Sussman (PhD Johns Hopkins), 2014 – 16. Assistant Professor, Boston University
-* Gabor Csardi (PhD Eötvös U), 2011 – 2016. Consultant, R Consortium
-* [Alexander Volfovsky](https://volfovsky.github.io/) (PhD UW), 2013 – 16. Assistant Professor, Duke University
-* Nikolai Slavov (PhD Princeton), 2011 –15. Assistant Professor, Northeastern University
-* Simon Lunagomez (PhD Duke), 2011 – 15. 50th Anniversary Lecturer, Lancaster University
-* Edward J Wallace (PhD Cambridge UK), 2010 – 13. Lecturer, University of Edinburgh
+* [Amir Ghasemian](https://aghasemian.github.io/) (PhD U Colorado, Boulder), 2019–
+* [Laura Forastiere](https://publichealth.yale.edu/profile/laura_forastiere/) (PhD Firenze), 2017–19, Assistant Professor, Yale University
+* [Vishesh Karwa](https://www.fox.temple.edu/about-fox/directory/vishesh-karwa/) (PhD Penn State), 2014–17. Assistant Professor, Ohio State University
+* Daniel Sussman (PhD Johns Hopkins), 2014–16. Assistant Professor, Boston University
+* Gabor Csardi (PhD Eötvös U), 2011–2016. Consultant, R Consortium
+* [Alexander Volfovsky](https://volfovsky.github.io/) (PhD UW), 2013–16. Assistant Professor, Duke University
+* Nikolai Slavov (PhD Princeton), 2011–15. Assistant Professor, Northeastern University
+* Simon Lunagomez (PhD Duke), 2011–15. 50th Anniversary Lecturer, Lancaster University
+* Edward J Wallace (PhD Cambridge UK), 2010–13. Lecturer, University of Edinburgh
 * Valeria Espinosa (PhD Harvard), 2014. Statistician, Google 
-* Stanley Chan (PhD USCD), 2012 – 14. Assistant Professor, Purdue University
-* Prakash Balachandran (PhD Duke), 2011 – 14. Associate Analyst, Morgan Stanley
-* Bertrand Haas (PhD Basel U), 2011 –13. Computational Biologist, Broad Institute
-* David S Choi (PhD Stanford), 2010 – 12. Assistant Professor, Carnegie Mellon University
-* Alan B Lenarcic (PhD Harvard), 2009 – 10. Research Associate, Security Exchange Commission
+* Stanley Chan (PhD USCD), 2012–14. Assistant Professor, Purdue University
+* Prakash Balachandran (PhD Duke), 2011–14. Associate Analyst, Morgan Stanley
+* Bertrand Haas (PhD Basel U), 2011–13. Computational Biologist, Broad Institute
+* David S Choi (PhD Stanford), 2010–12. Assistant Professor, Carnegie Mellon University
+* Alan B Lenarcic (PhD Harvard), 2009–10. Research Associate, Security Exchange Commission
     
 PhD Students at Harvard (solely and jointly supervised)
 
@@ -54,10 +54,10 @@ PhD Students at Harvard (solely and jointly supervised)
 * Thibaut Horel (Computer Science, 2019). Postdoc, MIT EECS
 * Jean Pouget-Abadie (Computer Science, 2018). Research Scientist, Google
 * Qiuyi (Christina, 2018) Han (Statistics). Quant, Jump Trading
-* Guillaume Basse (Statistics, 2018). Google Fellow in Statistics, 2015 – 18. Assistant Professor, Stanford University
-* Ed Kao (Statistics, 2017). National Defense Science & Engineering Graduate Fellow, 2011 – 12. MIT Lincoln Lab Scholar, 2012 – 15. Technical Staff Member, MIT Lincoln Lab
-* Alexander D’Amour (Statistics, 2017). Neyman Visiting Assistant Professor, University of Cali-fornia, Berkeley
-* Panos Toulis (Statistics, 2016). Google Fellow in Statistics, 2012 – 15. Assistant Professor, Uni-versity of Chicago Booth School of Business
+* Guillaume Basse (Statistics, 2018). Google Fellow in Statistics, 2015–18. Assistant Professor, Stanford University
+* Ed Kao (Statistics, 2017). National Defense Science & Engineering Graduate Fellow, 2011–12. MIT Lincoln Lab Scholar, 2012–15. Technical Staff Member, MIT Lincoln Lab
+* Alexander D’Amour (Statistics, 2017). Neyman Visiting Assistant Professor, University of California, Berkeley
+* Panos Toulis (Statistics, 2016). Google Fellow in Statistics, 2012–15. Assistant Professor, University of Chicago Booth School of Business
 * Eric J Solis (Systems Biology, 2016). Computational Biologist, Yumanity
 * Joseph Davies-Gavin (HBS Marketing, 2015). Data Scientist, Facebook
 * Alexander Franks (Statistics, 2015). Assistant Professor, University of California, Santa Barbara
