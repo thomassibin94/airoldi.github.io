@@ -4,9 +4,9 @@ title: Research
 permalink: /research/
 ---
 
-**Selected Publications**   
-
 (The symbol ✝ denotes current/former student/postdoc co-authors supervised by me, solely or jointly, when the research was done. Over 175 publications, including a number of refereed workshop and conference publications are not listed below, but can be found on my Google Scholar profile [here](http://scholar.google.com/citations?user=XKCyZk0AAAAJ&sortby=pubdate).)
+
+**Selected Publications**   
 
 85.    N Doudchenko, M Zhang✝, E Drynkin, EM Airoldi, V Mirrokni, J Pouget-Abadie. Causal inference with bipartite designs. arXiv no. 2010.02108, 2020.
 
@@ -179,14 +179,14 @@ permalink: /research/
 1.    EM Airoldi, C Faloutsos. Network tomography: Recovering latent time series from their observed sums. ACM International Conference on Knowledge Discovery & Data Mining (KDD), Seattle WA, 2004. 
 
 
-**EDITED BOOKS AND MONOGRAPHS**
+**Edited Books and Monographs**
 
 2.    EM Airoldi, DM Blei, EA Erosheva, SE Fienberg, editors. Handbook of Mixed Membership Mod-els and Their Applications. CRC Press, 2014. 
 
 1.    EM Airoldi, DM Blei, SE Fienberg, EP Xing, editors. Statistical Network Analysis: Models, Is-sues, and New Directions. Lecture Notes in Computer Science, volume 4503. Springer, 2007. 
 
 
-**OTHER SCHOLARLY WRITINGS** 
+**Other Scholarly Writings** 
 
 *Discussions*
 
@@ -209,7 +209,7 @@ permalink: /research/
 1.    EM Airoldi. Weak convergence of probability measures, with an application to Girone-Cifarelli (in Italian). Institute for Quantitative Methods, Bocconi University, 1998. 
 
 
-**OPEN-SOURCE SOFTWARE** 
+**Open-Source Software** 
 
 8.    SGD, an R package. Implements stochastic approximation methods for parameter estimation. 
 
