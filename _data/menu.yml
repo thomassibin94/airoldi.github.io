@@ -1,4 +1,4 @@
-- title: "About"
+- title: "Bio"
   href: "/about/"
 
 - title: "Research"
@@ -7,7 +7,7 @@
 - title: "Teaching"
   href: "/teaching/"
   
-- title: "Lab group"
+- title: "Fox Data Science"
   href: "/labgroup/"
 
 #- title: "CV"
