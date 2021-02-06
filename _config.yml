@@ -2,7 +2,7 @@
 title: Edo Airoldi
 email: airoldi@temple.edu
 description: > # this means to ignore newlines until "baseurl:"
-  millard e gladfelter professor of statistics and data science, professor of finance, co-director of temple data science institute, at temple university
+  Millard E. Gladfelter Professor of Statistics & Data Science, Professor of Finance (by courtesy), Co-Director of the Temple Data Science Institute, Fox School of Business, Temple University
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://airoldi.github.io" # the base hostname & protocol for your site
 twitter_username: airoldi
