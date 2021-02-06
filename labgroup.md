@@ -4,7 +4,7 @@ title: Research Group
 permalink: /labgroup/
 ---
 
-Current members of my group and alumni (listing first job):
+Current members of my group and alumni (listing first job, linking to current job):
 
 Postdoctoral Fellows at Temple (solely and jointly supervised)
 
@@ -15,11 +15,14 @@ Postdoctoral Fellows at Temple (solely and jointly supervised)
 PhD Students at Temple (solely and jointly supervised)
 
 * Joseph Riling (Statistics)
-* Minzhengxiong Zhang (Statistics)
-* Sidd Vishwanatan (Statistics)
+* Linwei Gao (Statistics)
+* Tanique Hudson (Statistics)
+* Minzhengxiong (Bear) Zhang (Statistics)
+* Amanda Kwok (Statistics)
     
 Undergraduates and MS Students at Temple
 
+* Srikar Katta (BS Economics)
 * Tanique Hudson (BS Statistics, 2020)
 * Patrick O’Brien (BS Statistics, 2020)
 * Sarah G Hurd (BS Nursing, Statistics minor, 2019). K Schroeder advisor
@@ -34,17 +37,17 @@ Postdoctoral Fellows at Harvard (solely and jointly supervised)
 * [Amir Ghasemian](https://aghasemian.github.io/) (PhD U Colorado, Boulder), 2019–
 * [Laura Forastiere](https://publichealth.yale.edu/profile/laura_forastiere/) (PhD Firenze), 2017–19, Assistant Professor, Yale University
 * [Vishesh Karwa](https://www.fox.temple.edu/about-fox/directory/vishesh-karwa/) (PhD Penn State), 2014–17. Assistant Professor, Ohio State University
-* Daniel Sussman (PhD Johns Hopkins), 2014–16. Assistant Professor, Boston University
-* Gabor Csardi (PhD Eötvös U), 2011–2016. Consultant, R Consortium
+* [Daniel Sussman](http://math.bu.edu/people/sussman/) (PhD Johns Hopkins), 2014–16. Assistant Professor, Boston University
+* [Gabor Csardi](https://github.com/gaborcsardi) (PhD Eötvös U), 2011–2016. Consultant, R Consortium
 * [Alexander Volfovsky](https://volfovsky.github.io/) (PhD UW), 2013–16. Assistant Professor, Duke University
-* Nikolai Slavov (PhD Princeton), 2011–15. Assistant Professor, Northeastern University
-* Simon Lunagomez (PhD Duke), 2011–15. 50th Anniversary Lecturer, Lancaster University
-* Edward J Wallace (PhD Cambridge UK), 2010–13. Lecturer, University of Edinburgh
+* [Nikolai Slavov](https://coe.northeastern.edu/people/slavov-nikolai/) (PhD Princeton), 2011–15. Assistant Professor, Northeastern University
+* [Simon Lunagomez](https://www.simonlunagomezc.com/) (PhD Duke), 2011–15. 50th Anniversary Lecturer, Lancaster University
+* [Edward J Wallace](https://ewallace.github.io/) (PhD Cambridge UK), 2010–13. Lecturer, University of Edinburgh
 * Valeria Espinosa (PhD Harvard), 2014. Statistician, Google 
-* Stanley Chan (PhD USCD), 2012–14. Assistant Professor, Purdue University
+* [Stanley H Chan](https://engineering.purdue.edu/ChanGroup/stanleychan.html) (PhD USCD), 2012–14. Assistant Professor, Purdue University
 * Prakash Balachandran (PhD Duke), 2011–14. Associate Analyst, Morgan Stanley
 * Bertrand Haas (PhD Basel U), 2011–13. Computational Biologist, Broad Institute
-* David S Choi (PhD Stanford), 2010–12. Assistant Professor, Carnegie Mellon University
+* [David S Choi](https://www.andrew.cmu.edu/user/davidch/) (PhD Stanford), 2010–12. Assistant Professor, Carnegie Mellon University
 * Alan B Lenarcic (PhD Harvard), 2009–10. Research Associate, Security Exchange Commission
     
 PhD Students at Harvard (solely and jointly supervised)
@@ -57,11 +60,11 @@ PhD Students at Harvard (solely and jointly supervised)
 * Guillaume Basse (Statistics, 2018). Google Fellow in Statistics, 2015–18. Assistant Professor, Stanford University
 * Ed Kao (Statistics, 2017). National Defense Science & Engineering Graduate Fellow, 2011–12. MIT Lincoln Lab Scholar, 2012–15. Technical Staff Member, MIT Lincoln Lab
 * Alexander D’Amour (Statistics, 2017). Neyman Visiting Assistant Professor, University of California, Berkeley
-* Panos Toulis (Statistics, 2016). Google Fellow in Statistics, 2012–15. Assistant Professor, University of Chicago Booth School of Business
+* [Panos Toulis](https://www.ptoulis.com/) (Statistics, 2016). Google Fellow in Statistics, 2012–15. Assistant Professor, Chicago Booth School of Business
 * Eric J Solis (Systems Biology, 2016). Computational Biologist, Yumanity
 * Joseph Davies-Gavin (HBS Marketing, 2015). Data Scientist, Facebook
 * Alexander Franks (Statistics, 2015). Assistant Professor, University of California, Santa Barbara
-* Thiago Barros-Costa (Applied Mathematics, 2015). Assistant Professor, Getúlio Var-gas Foundation, Rio de Janeiro
+* Thiago Barros-Costa (Applied Mathematics, 2015). Assistant Professor, Getúlio Vargas Foundation, Rio de Janeiro
 * Brandon M Stewart (Government, 2015). Assistant Professor, Princeton University
 * Magaret E Roberts (Government, 2014). Assistant Professor, University of California, San Diego
 * Hossein Azari-Soufiani (Computer Science, 2014). Data Scientist, Google 
