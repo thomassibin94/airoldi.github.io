@@ -9,11 +9,11 @@ The symbol ✝ denotes current/former student/postdoc supervised by me, solely o
 
 **Selected Publications**   
 
-85.    N Doudchenko, M Zhang✝, E Drynkin, EM Airoldi, V Mirrokni, J Pouget-Abadie. Causal inference with bipartite designs. arXiv no. 2010.02108, 2020.
+85.    N Doudchenko, M Zhang✝, E Drynkin, EM Airoldi, V Mirrokni, J Pouget-Abadie. **Causal inference with bipartite designs**. arXiv no. 2010.02108, 2020.
 
-84.    D Tran✝, P Toulis✝, EM Airoldi. Stochastic gradient descent methods for parameter estimation at scale. Journal of Statistical Software. In press, 2020.
+84.    D Tran✝, P Toulis✝, EM Airoldi. **Stochastic gradient descent methods for parameter estimation at scale**. Journal of Statistical Software. In press, 2020.
 
-83.    P Toulis✝, T Horel✝, EM Airoldi. The Proximal Robbins-Monro Method. *Journal of the Royal Statistical Society, Series B*. In press, 2020. (IBM Best student paper award at the New England Statistics Symposium 2018.)
+83.    P Toulis✝, T Horel✝, EM Airoldi. **The Proximal Robbins-Monro Method**. ***Journal of the Royal Statistical Society, Series B***. In press, 2020. (IBM Best student paper award at the New England Statistics Symposium 2018.)
 
 82.    L Forastiere✝, EM Airoldi, F Mealli. [**Identification and estimation of treatment and interference effects in observational studies on networks**](https://www.tandfonline.com/doi/abs/10.1080/01621459.2020.1768100). ***Journal of the American Statistical Association***. In press, 2020.
 
