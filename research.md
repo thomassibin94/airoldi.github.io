@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-SELECTED PUBLICATIONS   (The symbol ✝ denotes current/former student/postdoc co-authors supervised by me, solely or jointly, when the research was done. Over 175 publications, including a number of refereed workshop and conference publications are not listed below, but can be found on my Google Scholar profile [here](http://scholar.google.com/citations?user=XKCyZk0AAAAJ&sortby=pubdate).)
+**SELECTED PUBLICATIONS**   (The symbol ✝ denotes current/former student/postdoc co-authors supervised by me, solely or jointly, when the research was done. Over 175 publications, including a number of refereed workshop and conference publications are not listed below, but can be found on my Google Scholar profile [here](http://scholar.google.com/citations?user=XKCyZk0AAAAJ&sortby=pubdate).)
 
 85.    N Doudchenko, M Zhang✝, E Drynkin, EM Airoldi, V Mirrokni, J Pouget-Abadie. Causal inference with bipartite designs. arXiv no. 2010.02108, 2020.
 
@@ -177,22 +177,22 @@ SELECTED PUBLICATIONS   (The symbol ✝ denotes current/former student/postdoc c
 1.    EM Airoldi, C Faloutsos. Network tomography: Recovering latent time series from their observed sums. ACM International Conference on Knowledge Discovery & Data Mining (KDD), Seattle WA, 2004. 
 
 
-EDITED BOOKS AND MONOGRAPHS
+**EDITED BOOKS AND MONOGRAPHS**
 
 2.    EM Airoldi, DM Blei, EA Erosheva, SE Fienberg, editors. Handbook of Mixed Membership Mod-els and Their Applications. CRC Press, 2014. 
 
 1.    EM Airoldi, DM Blei, SE Fienberg, EP Xing, editors. Statistical Network Analysis: Models, Is-sues, and New Directions. Lecture Notes in Computer Science, volume 4503. Springer, 2007. 
 
 
-OTHER SCHOLARLY WRITINGS 
+**OTHER SCHOLARLY WRITINGS** 
 
-Discussions
+*Discussions*
 
 2.    A Feller✝, EM Airoldi. Discussion of Hennig and Liao “How to find an appropriate clustering for mixed type variables with application to socio-economic stratification”. Journal of the Royal Statistical Society, Series C. 62, 347-349, 2013.
 
 1.    EM Airoldi. Discussion of Handcock, Raftery and Tantrum “Model-based clustering for social networks”. Journal of the Royal Statistical Society, Series A, 170, Part 2, 30-31, 2007. 
 
-Technical reports
+*Technical reports*
 
 3.    T Hashimoto✝, DJ Gresham, D Botstein, EM Airoldi. A linear model framework for genome-scale functional analysis based on the gene ontology. Princeton University, 2009.
 
@@ -200,14 +200,14 @@ Technical reports
 
 1.    EM Airoldi. Advances in Network Tomography. Carnegie Mellon University, 2003.
 
-Dissertations
+*Dissertations*
 
 2.    EM Airoldi. Bayesian mixed-membership models of complex and evolving networks. School of Computer Science, Carnegie Mellon University, 2007. 
 
 1.    EM Airoldi. Weak convergence of probability measures, with an application to Girone-Cifarelli (in Italian). Institute for Quantitative Methods, Bocconi University, 1998. 
 
 
-OPEN-SOURCE SOFTWARE 
+**OPEN-SOURCE SOFTWARE** 
 
 8.    SGD, an R package. Implements stochastic approximation methods for parameter estimation. 
 
