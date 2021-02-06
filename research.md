@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-SELECTED PUBLICATIONS   (The symbol ✝ denotes current/former student/postdoc co-authors supervised by me, solely or jointly, when the research was done. Over 175 publications, including a number of refereed workshop and conference publications are not listed below, but can be found on my Google Scholar profile [here](http://scholar.google.com/citations?user=XKCyZk0AAAAJ&sortby=pubdate).)
+<ul>SELECTED PUBLICATIONS</ul>   (The symbol ✝ denotes current/former student/postdoc co-authors supervised by me, solely or jointly, when the research was done. Over 175 publications, including a number of refereed workshop and conference publications are not listed below, but can be found on my Google Scholar profile [here](http://scholar.google.com/citations?user=XKCyZk0AAAAJ&sortby=pubdate).)
 
 85.    N Doudchenko, M Zhang✝, E Drynkin, EM Airoldi, V Mirrokni, J Pouget-Abadie. Causal inference with bipartite designs. arXiv no. 2010.02108, 2020.
 
