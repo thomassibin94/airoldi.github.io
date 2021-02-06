@@ -11,7 +11,8 @@ Postdoctoral Fellows at Temple (solely and jointly supervised)
 * Kathryn Turnbull (PhD Lancaster U), 2020–
 * Marios Papamichalis (PhD Purdue), 2020–
 * Chenchen Cai (PhD Rutgers), 2020–
-    
+* [Amir Ghasemian](https://aghasemian.github.io/) (PhD U Colorado, Boulder), 2020. Postdoctoral Fellow, Yale University.
+
 PhD Students at Temple (solely and jointly supervised)
 
 * Joseph Riling (Statistics)
@@ -34,8 +35,8 @@ Other PhD Thesis Committees while at Temple
 
 Postdoctoral Fellows at Harvard (solely and jointly supervised)
 
-* [Amir Ghasemian](https://aghasemian.github.io/) (PhD U Colorado, Boulder), 2019–
-* [Laura Forastiere](https://publichealth.yale.edu/profile/laura_forastiere/) (PhD Firenze), 2017–19, Assistant Professor, Yale University
+* [Amir Ghasemian](https://aghasemian.github.io/) (PhD U Colorado, Boulder), 2019–20. Postdoctoral Fellow, Temple University.
+* [Laura Forastiere](https://publichealth.yale.edu/profile/laura_forastiere/) (PhD Firenze), 2017–19. Assistant Professor, Yale University
 * [Vishesh Karwa](https://www.fox.temple.edu/about-fox/directory/vishesh-karwa/) (PhD Penn State), 2014–17. Assistant Professor, Ohio State University
 * [Daniel Sussman](http://math.bu.edu/people/sussman/) (PhD Johns Hopkins), 2014–16. Assistant Professor, Boston University
 * [Gabor Csardi](https://github.com/gaborcsardi) (PhD Eötvös U), 2011–2016. Consultant, R Consortium
