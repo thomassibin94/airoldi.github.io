@@ -179,12 +179,6 @@ SELECTED PUBLICATIONS   (The symbol ✝ denotes current/former student/postdoc c
 
 EDITED BOOKS AND MONOGRAPHS
 
-* EM Airoldi. Elements of Statistical Network Analysis. Under contract with Cambridge University Press.
-
-* G Csardi, T Nepusz, EM Airoldi. Statistical Network Analysis with iGraph. Under contract with Springer. Expected completion in mid 2018. (Current draft 290pp.)
-
-* EM Airoldi, editor. Handbook of Statistical Network Analysis. CRC Press, 2018. 
-
 2.    EM Airoldi, DM Blei, EA Erosheva, SE Fienberg, editors. Handbook of Mixed Membership Mod-els and Their Applications. CRC Press, 2014. 
 
 1.    EM Airoldi, DM Blei, SE Fienberg, EP Xing, editors. Statistical Network Analysis: Models, Is-sues, and New Directions. Lecture Notes in Computer Science, volume 4503. Springer, 2007. 
