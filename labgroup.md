@@ -93,8 +93,8 @@ Undergraduates and MS Students at Harvard
 Other PhD Thesis Committees while at Harvard 
 
 * Jonathan Larson, PhD in Biostatistics (Harvard), JP Onnela advisor
-* Dustin Tran, PhD in Computer Science (Columbia), DM Blei advisor
 * Joy Yang, PhD in Computational and Systems Biology (MIT), E Alm advisor
+* Dustin Tran, PhD in Computer Science (Columbia), 2020, DM Blei advisor
 * Jennifer Chen, PhD in Health Sciences and Technology (Harvard/MIT), 2018, A Regev advisor
 * Xinran Li, PhD in Statistics (Harvard), 2018, JS Liu advisor
 * Guillaume Saint-Jacques, PhD in IT (MIT Sloan), 2018, S Aral and E Brynjolfsson co-advisors
