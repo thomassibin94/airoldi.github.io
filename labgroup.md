@@ -54,20 +54,20 @@ PhD Students at Harvard (solely and jointly supervised)
 
 * Niloy Biswas (Statistics)
 * Albert Wu (Statistics, 2020).
-* Thibaut Horel (Computer Science, 2019). Postdoc, MIT EECS
-* Jean Pouget-Abadie (Computer Science, 2018). Research Scientist, Google
+* [Thibaut Horel](https://thibaut.horel.org/) (Computer Science, 2019). Postdoc, MIT EECS
+* [Jean Pouget-Abadie](https://jean.pouget-abadie.com/) (Computer Science, 2018). Research Scientist, Google
 * Qiuyi (Christina, 2018) Han (Statistics). Quant, Jump Trading
-* Guillaume Basse (Statistics, 2018). Google Fellow in Statistics, 2015–18. Assistant Professor, Stanford University
+* [Guillaume Basse](https://web.stanford.edu/~gbasse/) (Statistics, 2018). Google Fellow in Statistics, 2015–18. Assistant Professor, Stanford University
 * Ed Kao (Statistics, 2017). National Defense Science & Engineering Graduate Fellow, 2011–12. MIT Lincoln Lab Scholar, 2012–15. Technical Staff Member, MIT Lincoln Lab
-* Alexander D’Amour (Statistics, 2017). Neyman Visiting Assistant Professor, University of California, Berkeley
+* [Alexander D’Amour](https://www.alexdamour.com/) (Statistics, 2017). Neyman Visiting Assistant Professor, University of California, Berkeley
 * [Panos Toulis](https://www.ptoulis.com/) (Statistics, 2016). Google Fellow in Statistics, 2012–15. Assistant Professor, Chicago Booth School of Business
 * Eric J Solis (Systems Biology, 2016). Computational Biologist, Yumanity
 * Joseph Davies-Gavin (HBS Marketing, 2015). Data Scientist, Facebook
-* Alexander Franks (Statistics, 2015). Assistant Professor, University of California, Santa Barbara
-* Thiago Barros-Costa (Applied Mathematics, 2015). Assistant Professor, Getúlio Vargas Foundation, Rio de Janeiro
-* Brandon M Stewart (Government, 2015). Assistant Professor, Princeton University
-* Magaret E Roberts (Government, 2014). Assistant Professor, University of California, San Diego
-* Hossein Azari-Soufiani (Computer Science, 2014). Data Scientist, Google 
+* [Alexander Franks](http://afranks.com/) (Statistics, 2015). Assistant Professor, University of California, Santa Barbara
+* [Thiago Barros-Costa](https://www.atlasintel.org/team) (Applied Mathematics, 2015). Assistant Professor, Getúlio Vargas Foundation, Rio de Janeiro
+* [Brandon M Stewart](https://scholar.princeton.edu/bstewart/home) (Government, 2015). Assistant Professor, Princeton University
+* [Magaret E Roberts](http://www.margaretroberts.net/) (Government, 2014). Assistant Professor, University of California, San Diego
+* [Hossein Azari-Soufiani](http://www.azari.io/) (Computer Science, 2014). Data Scientist, Google 
 * Jonathan Bischof (Statistics, 2014). Statistician, Google 
 * Yarden Katz, (MIT Computer Science, 2013). Postdoctoral Fellow, Harvard Medical School
 * [Alexander W Blocker](http://www.awblocker.com/) (Statistics, 2013). Data Scientist, Verily Life Sciences
