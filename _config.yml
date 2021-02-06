@@ -5,11 +5,11 @@ description: > # this means to ignore newlines until "baseurl:"
   Millard E. Gladfelter Professor of Statistics & Data Science, Professor of Finance (by courtesy), Co-Director of the Temple Data Science Institute, Fox School of Business, Temple University
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://airoldi.github.io" # the base hostname & protocol for your site
-twitter_username: airoldi
+google_scholar_url: "https://scholar.google.com/citations?user=XKCyZk0AAAAJ&hl=en"
 github_username:  airoldi
-orcid_id: 0000-0002-3512-0542
-google_scholar_id: XKCyZk0AAAAJ
-arxiv_url: " http://arxiv.org/a/airoldi_e_1"
+orcid_url: "https://orcid.org/0000-0002-3512-0542"
+arxiv_url: " https://arxiv.org/a/airoldi_e_1"
+# twitter_username: airoldi
 
 # Build settings
 markdown: kramdown
@@ -18,8 +18,6 @@ markdown: kramdown
 permalink: blog/:year/:month/:title
 job.title: "Millard E. Gladfelter Professor of Statistics & Data Science, Professor of Finance (by courtesy)"
 excerpt_separator: "<!--more-->"
-
-google_analytics: UA-57660811-2 
 
 # SEO stuff
 # google_author: ""
