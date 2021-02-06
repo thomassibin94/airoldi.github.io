@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-(The symbol ✝ denotes current/former student/postdoc co-authors supervised by me, solely or jointly, when the research was done. Over 175 publications, including a number of refereed workshop and conference publications are not listed below, but can be found on my Google Scholar profile [here](http://scholar.google.com/citations?user=XKCyZk0AAAAJ&sortby=pubdate).)
+(Over 175 publications, including a number of refereed workshop and conference publications, can be found on my Google Scholar profile [here](http://scholar.google.com/citations?user=XKCyZk0AAAAJ&sortby=pubdate). The symbol ✝ denotes current/former student/postdoc supervised by me, solely or jointly, when the research was done. )
 
 **Selected Publications**   
 
