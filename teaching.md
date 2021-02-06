@@ -25,6 +25,6 @@ Courses I have taught at Harvard University
 
 Mini-courses and Tutorials
 
-* Statistical methods for populations with interaction and interfering units. Invited tutorial at the Institute for Mathematics and its Applications, Minneapolis, MN  (2011)
-* Statistical elements of complex networks. Invited mini-course at the Social Networks Summer School, Whistler, Canada  (2010)
-* Statistical elements of complex networks. Invited mini-course at the New England Statistics Symposium, Cambridge, MA  (2010, with J Blitzstein)
+* Statistical methods for populations with interaction and interfering units. Tutorial at the Institute for Mathematics and its Applications, Minneapolis, MN  (2011)
+* Statistical elements of complex networks. Mini-course at the Social Networks Summer School, Whistler, Canada  (2010)
+* Statistical elements of complex networks. Mini-course at the New England Statistics Symposium, Cambridge, MA  (2010, with J Blitzstein)
