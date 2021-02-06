@@ -14,7 +14,7 @@ SELECTED PUBLICATIONS   (The symbol ✝ denotes current/former student/postdoc c
 
 82.    L Forastiere✝, EM Airoldi, F Mealli. Identification and estimation of treatment and interference effects in observational studies on networks. Journal of the American Statistical Association. In press, 2020.
 
-81. A Ghasemian, H Hosseinmardi, A Galstyan, EM Airoldi, A Clauset. Stacking Models for Nearly Optimal Link Prediction in Complex Networks. Proceedings of the National Academy of Sciences. In press, 2020.
+81.    A Ghasemian, H Hosseinmardi, A Galstyan, EM Airoldi, A Clauset. Stacking Models for Nearly Optimal Link Prediction in Complex Networks. Proceedings of the National Academy of Sciences. In press, 2020.
 
 80.    A Franks✝, EM Airoldi, DB Rubin. Non-standard conditionally specified models for non-ignorable missing data mechanisms. Proceedings of the National Academy of Sciences. 117, 19045-19053, 2020.
 
@@ -72,7 +72,7 @@ SELECTED PUBLICATIONS   (The symbol ✝ denotes current/former student/postdoc c
 
 53.    P Toulis✝, EM Airoldi. Scalable estimation strategies based on stochastic approximations: Classical results and new insights. Statistics and Computing. 25, 781–795, 2015.
 
-52.     D Tran✝, DM Blei, EM Airoldi. Copula variational inference. Neural and Information Processing Systems (NIPS). 2015.
+52.    D Tran✝, DM Blei, EM Airoldi. Copula variational inference. Neural and Information Processing Systems (NIPS). 2015.
 
 51.    CQ Han✝, K Xu, EM Airoldi. Consistent estimation of dynamic and multi-layer block models. Journal of Machine Learning Research, W&CP (ICML). 37, 1511–1520, 2015.
 
