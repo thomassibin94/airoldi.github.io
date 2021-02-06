@@ -56,13 +56,13 @@ PhD Students at Harvard (solely and jointly supervised)
 * Albert Wu (Statistics, 2020).
 * [Thibaut Horel](https://thibaut.horel.org/) (Computer Science, 2019). Postdoc, MIT EECS
 * [Jean Pouget-Abadie](https://jean.pouget-abadie.com/) (Computer Science, 2018). Research Scientist, Google
-* Qiuyi (Christina, 2018) Han (Statistics). Quant, Jump Trading
+* Qiuyi (Christina) Han (Statistics, 2018). Quant, Jump Trading
 * [Guillaume Basse](https://web.stanford.edu/~gbasse/) (Statistics, 2018). Google Fellow in Statistics, 2015–18. Assistant Professor, Stanford University
-* Ed Kao (Statistics, 2017). National Defense Science & Engineering Graduate Fellow, 2011–12. MIT Lincoln Lab Scholar, 2012–15. Technical Staff Member, MIT Lincoln Lab
+* [Ed Kao](https://scholar.google.com/citations?user=628YWe4AAAAJ&hl=en) (Statistics, 2017). National Defense Science & Engineering Graduate Fellow, 2011–12. MIT Lincoln Lab Scholar, 2012–15. Technical Staff Member, MIT Lincoln Lab
 * [Alexander D’Amour](https://www.alexdamour.com/) (Statistics, 2017). Neyman Visiting Assistant Professor, University of California, Berkeley
 * [Panos Toulis](https://www.ptoulis.com/) (Statistics, 2016). Google Fellow in Statistics, 2012–15. Assistant Professor, Chicago Booth School of Business
 * Eric J Solis (Systems Biology, 2016). Computational Biologist, Yumanity
-* Joseph Davies-Gavin (HBS Marketing, 2015). Data Scientist, Facebook
+* [Joseph Davies-Gavin](https://www.westmonroepartners.com/our-team/joseph-davin) (HBS Marketing, 2015). Data Scientist, Facebook
 * [Alexander Franks](http://afranks.com/) (Statistics, 2015). Assistant Professor, University of California, Santa Barbara
 * [Thiago Barros-Costa](https://www.atlasintel.org/team) (Applied Mathematics, 2015). Assistant Professor, Getúlio Vargas Foundation, Rio de Janeiro
 * [Brandon M Stewart](https://scholar.princeton.edu/bstewart/home) (Government, 2015). Assistant Professor, Princeton University
@@ -84,7 +84,7 @@ Undergraduates and MS Students at Harvard
 * Arnab Bhattacharya (AM Statistics, 2012). Consultant, A.T. Kearney
 * Amy Wang (AB Statistics, 2012). Consultant, McKinsey & Company
 * [Michael K Oberst](https://www.michaelkoberst.com/) (AB Statistics, 2012). Consultant, McKinsey & Company
-* Albert D Shieh (AB Statistics, 2011). Analyst, DE Shaw Research
+* [Albert D Shieh](https://adshieh.github.io/) (AB Statistics, 2011). Analyst, DE Shaw Research
 * Palak Patel (AB Applied Math, AM Statistics, 2011). Analyst, Fidelity Investments
 * [Tatsunori B Hashimoto](https://thashim.github.io/) (AB Statistics, 2011). PhD student, MIT CSAIL
 * Vikram Modi (AB Appleid Math, AM Statistics, 2010). Quant, Two Sigma
