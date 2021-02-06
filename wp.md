@@ -48,6 +48,7 @@ WORKING PAPERS
 
 * EM Airoldi, EJ Solis✝, DA Drummond. A model of peptide charge and modification states for estimating low concentration proteins in a single sample. Under review. Revision submitted to Annals of Applied Statistics. 2016.
 
+
 EDITED BOOKS AND MONOGRAPHS
 
 * EM Airoldi. Elements of Statistical Network Analysis. Under contract with Cambridge University Press.
