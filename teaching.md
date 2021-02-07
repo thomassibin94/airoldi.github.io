@@ -1,23 +1,17 @@
 ---
 layout: page
-title:
+title: Teaching
 permalink: /teaching/
 ---
 
-<header class="post-header">
-    <h1 class="post-title">Courses I have taught at Temple University</h1>
-</header>
+Courses I have taught at Temple University
 
 * Stat 9190, Analysis of causal mechanisms in Tech and Finance  (Spring 2021)
 * Stat 9190, Introduction to Machine Learning and AI  (Spring 2020)
 * Stat 3503/8109, Applied Statistics and Data Science  (Fall 2018, 2020)
 * Stat 9190, Design and Analysis of Experiments at Scale  (Spring 2019)
 
-// Courses I have taught at Harvard University
-
-<header class="post-header">
-    <h1 class="post-title">At Harvard University</h1>
-</header>
+Courses I have taught at Harvard University
 
 * Stat 111, Introduction to Theoretical Statistics  (Spring 2010, 2011, 2012, 2013)
 * Stat 120, Introduction to Applied Bayesian Inference and Multilevel Models  (Fall 2014, 2016)
