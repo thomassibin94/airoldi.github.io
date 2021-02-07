@@ -4,7 +4,9 @@ title:
 permalink: /teaching/
 ---
 
-// Courses I have taught at Temple University
+<header class="post-header">
+    <h1 class="post-title">Courses I have taught at Temple University</h1>
+</header>
 
 * Stat 9190, Analysis of causal mechanisms in Tech and Finance  (Spring 2021)
 * Stat 9190, Introduction to Machine Learning and AI  (Spring 2020)
@@ -14,7 +16,7 @@ permalink: /teaching/
 // Courses I have taught at Harvard University
 
 <header class="post-header">
-    <h1 class="post-title">At Temple</h1>
+    <h1 class="post-title">At Harvard University</h1>
 </header>
 
 * Stat 111, Introduction to Theoretical Statistics  (Spring 2010, 2011, 2012, 2013)
