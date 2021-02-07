@@ -6,14 +6,14 @@ permalink: /group/
 
 Current members of my group and alumni (listing first job, linking to current job):
 
-Postdoctoral Fellows at Temple (solely and jointly supervised)
+**Postdoctoral Fellows at Temple** (solely and jointly supervised)
 
 * Kathryn Turnbull (PhD Lancaster U), 2020–
 * Marios Papamichalis (PhD Purdue), 2020–
 * Chenchen Cai (PhD Rutgers), 2020–
 * [Amir Ghasemian](https://aghasemian.github.io/) (PhD U Colorado, Boulder), 2020. Computing Innovation Fellow, Yale University.
 
-PhD Students at Temple (solely and jointly supervised)
+**PhD Students at Temple** (solely and jointly supervised)
 
 * Joseph Riling (Statistics)
 * Linwei Gao (Statistics)
@@ -21,19 +21,19 @@ PhD Students at Temple (solely and jointly supervised)
 * Minzhengxiong (Bear) Zhang (Statistics)
 * Amanda Kwok (Statistics)
     
-Undergraduates and MS Students at Temple
+**Undergraduates and MS Students at Temple**
 
 * Srikar Katta (BS Economics)
 * Tanique Hudson (BS Statistics, 2020)
 * Patrick O’Brien (BS Statistics, 2020)
 * Sarah G Hurd (BS Nursing, Statistics minor, 2019). K Schroeder advisor
     
-Other PhD Thesis Committees while at Temple
+**Other PhD Thesis Committees while at Temple**
 
 * Andrew Perez, PhD in Statistics (Temple), M Sobel advisor
 * Jesse Glass, PhD in Computer Science (Temple), 2020, Z Obradovic advisor
 
-Postdoctoral Fellows at Harvard (solely and jointly supervised)
+**Postdoctoral Fellows at Harvard** (solely and jointly supervised)
 
 * [Amir Ghasemian](https://aghasemian.github.io/) (PhD U Colorado, Boulder), 2019–20. Postdoctoral Fellow, Temple University.
 * [Laura Forastiere](https://publichealth.yale.edu/profile/laura_forastiere/) (PhD Firenze), 2017–19. Assistant Professor, Yale University
@@ -51,7 +51,7 @@ Postdoctoral Fellows at Harvard (solely and jointly supervised)
 * [David S Choi](https://www.andrew.cmu.edu/user/davidch/) (PhD Stanford), 2010–12. Assistant Professor, Carnegie Mellon University
 * Alan B Lenarcic (PhD Harvard), 2009–10. Research Associate, Security Exchange Commission
     
-PhD Students at Harvard (solely and jointly supervised)
+**PhD Students at Harvard** (solely and jointly supervised)
 
 * Niloy Biswas (Statistics)
 * Albert Wu (Statistics, 2020).
@@ -74,7 +74,7 @@ PhD Students at Harvard (solely and jointly supervised)
 * [Alexander W Blocker](http://www.awblocker.com/) (Statistics, 2013). Data Scientist, Verily Life Sciences
 * [Tuan Q Phan](http://tuanqphan.us/) (HBS Marketing, 2011). Assistant Professor, National University of Singapore
 
-Undergraduates and MS Students at Harvard
+**Undergraduates and MS Students at Harvard**
 
 * [Dustin Tran](http://dustintran.com/) (AM Applied Computational Science, 2015). PhD student, Columbia Statistics 
 * Saketh Rama (AB Computer Science, 2015). PhD student, Harvard Computer Science
@@ -90,7 +90,7 @@ Undergraduates and MS Students at Harvard
 * [Tatsunori B Hashimoto](https://thashim.github.io/) (AB Statistics, 2011). PhD student, MIT CSAIL
 * Vikram Modi (AB Appleid Math, AM Statistics, 2010). Quant, Two Sigma
 
-Other PhD Thesis Committees while at Harvard 
+**Other PhD Thesis Committees while at Harvard** 
 
 * Jonathan Larson, PhD in Biostatistics (Harvard), JP Onnela advisor
 * Joy Yang, PhD in Computational and Systems Biology (MIT), E Alm advisor
