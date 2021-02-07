@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bio
-permalink: /about/
+permalink: /bio/
 ---
 
 {% include image.html url="/images/airoldi_photo.jpg" width=300 align="right" %}

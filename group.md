@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research Group 
-permalink: /labgroup/
+permalink: /group/
 ---
 
 Current members of my group and alumni (listing first job, linking to current job):
