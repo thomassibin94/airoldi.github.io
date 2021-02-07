@@ -13,9 +13,8 @@ permalink: /teaching/
 
 // Courses I have taught at Harvard University
 
-<header class="post-header">
     <h1 class="post-title">Harvard</h1>
-</header>
+    <h2 class="post-title">Harvard</h2>
 
 * Stat 111, Introduction to Theoretical Statistics  (Spring 2010, 2011, 2012, 2013)
 * Stat 120, Introduction to Applied Bayesian Inference and Multilevel Models  (Fall 2014, 2016)
