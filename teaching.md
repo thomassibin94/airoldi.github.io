@@ -23,11 +23,7 @@ Courses I have taught at Harvard University
 * Stat 385, Statistical Machine Learning Seminar  (Spring 2009, 2015)
 * Stat 388, Design and Analysis of Experiments at Scale  (Spring 2017)
 
-// Mini-courses and Tutorials
-
-<header class="post-header">
-    <h1 class="post-title">Mini-courses and Tutorials</h1>
-</header>
+Mini-courses and Tutorials
 
 * Statistical methods for populations with interaction and interfering units. Tutorial at the Institute for Mathematics and its Applications, Minneapolis, MN  (2011)
 * Statistical elements of complex networks. Mini-course at the Social Networks Summer School, Whistler, Canada  (2010)
