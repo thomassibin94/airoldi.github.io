@@ -1,3 +1,5 @@
+https://thackl.github.io/automatically-update-publications-with-R-scholar
+
 https://stackoverflow.com/questions/25695000/how-to-display-a-reverse-ordered-list-in-html
 
 ul {
