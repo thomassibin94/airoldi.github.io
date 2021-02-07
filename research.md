@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-Over 175 publications, including refereed workshop and conference publications, can be found on my Google Scholar profile [here](http://scholar.google.com/citations?user=XKCyZk0AAAAJ&sortby=pubdate). 
+Over 170 publications, including refereed workshop and conference publications, can be found on my Google Scholar profile [here](http://scholar.google.com/citations?user=XKCyZk0AAAAJ&sortby=pubdate). 
 The symbol ✝ denotes current/former student/postdoc supervised by me, solely or jointly, when the research was done.
 
 <p><strong>Selected Publications</strong></p>
