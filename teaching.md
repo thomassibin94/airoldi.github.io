@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Temple
 permalink: /teaching/
 ---
 
