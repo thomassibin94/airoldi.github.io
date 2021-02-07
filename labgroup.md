@@ -11,7 +11,7 @@ Postdoctoral Fellows at Temple (solely and jointly supervised)
 * Kathryn Turnbull (PhD Lancaster U), 2020–
 * Marios Papamichalis (PhD Purdue), 2020–
 * Chenchen Cai (PhD Rutgers), 2020–
-* [Amir Ghasemian](https://aghasemian.github.io/) (PhD U Colorado, Boulder), 2020. Postdoctoral Fellow, Yale University.
+* [Amir Ghasemian](https://aghasemian.github.io/) (PhD U Colorado, Boulder), 2020. NSF Computing Innovation Fellow, Yale University.
 
 PhD Students at Temple (solely and jointly supervised)
 
