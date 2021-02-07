@@ -16,9 +16,16 @@ $background-color: #fdfdfd;
 $brand-color:      #0077CC;
 $gameday-sky: 	   #109dc0;
 $clemson-purple:   #522d80;
-$duke-blue:        #001A57;
 $clemson-orange:   #001A57;
+$duke-blue:        #001A57;
+$harvard-crimson:  #A51C30;
+$harvard-blue:     #4e88c7;
+$harvard-grey:     #93a1ad;
 $temple-cherry:    #A51A36;
+$temple-cherry-dark: #84152b;
+$temple-cherry-black: #58161f;
+// $temple-cherry-dark:  darken($temple-cherry, 25%);
+$temple-maroon:    #800000;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);

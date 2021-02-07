@@ -1,17 +1,21 @@
 ---
 layout: page
-title: Teaching
+title: Temple
 permalink: /teaching/
 ---
 
-Courses I have taught at Temple University
+// Courses I have taught at Temple University
 
 * Stat 9190, Analysis of causal mechanisms in Tech and Finance  (Spring 2021)
 * Stat 9190, Introduction to Machine Learning and AI  (Spring 2020)
 * Stat 3503/8109, Applied Statistics and Data Science  (Fall 2018, 2020)
 * Stat 9190, Design and Analysis of Experiments at Scale  (Spring 2019)
 
-Courses I have taught at Harvard University
+// Courses I have taught at Harvard University
+
+<header class="post-header">
+    <h1 class="post-title">Harvard</h1>
+</header>
 
 * Stat 111, Introduction to Theoretical Statistics  (Spring 2010, 2011, 2012, 2013)
 * Stat 120, Introduction to Applied Bayesian Inference and Multilevel Models  (Fall 2014, 2016)
@@ -23,7 +27,11 @@ Courses I have taught at Harvard University
 * Stat 385, Statistical Machine Learning Seminar  (Spring 2009, 2015)
 * Stat 388, Design and Analysis of Experiments at Scale  (Spring 2017)
 
-Mini-courses and Tutorials
+// Mini-courses and Tutorials
+
+<header class="post-header">
+    <h1 class="post-title">Mini-courses and Tutorials</h1>
+</header>
 
 * Statistical methods for populations with interaction and interfering units. Tutorial at the Institute for Mathematics and its Applications, Minneapolis, MN  (2011)
 * Statistical elements of complex networks. Mini-course at the Social Networks Summer School, Whistler, Canada  (2010)
