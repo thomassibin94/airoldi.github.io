@@ -11,4 +11,4 @@ Mobile support is  functional, though some white-spacing could be improved.
 
 `css` and `_sass` directories also functional, if a bit cluttered. Do observe new colors I created for `$clemson-orange` and `$clemson-purple` in `css/main.scss`.
 
-Feel free to contact me at airoldi@temple.edu. Better yet, contact Steven at svmille@clemson.edu, and thank him for the useful code he released.
+Contact me at airoldi@temple.edu. Better yet, contact Steven at svmille@clemson.edu, and thank him for the useful code he released.
