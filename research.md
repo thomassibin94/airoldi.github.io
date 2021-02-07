@@ -7,6 +7,26 @@ permalink: /research/
 Over 175 publications, including refereed workshop and conference publications, can be found on my Google Scholar profile [here](http://scholar.google.com/citations?user=XKCyZk0AAAAJ&sortby=pubdate). 
 The symbol ✝ denotes current/former student/postdoc supervised by me, solely or jointly, when the research was done.
 
+<p><strong>Selected Publications</strong></p>
+
+<ol reversed>
+  <li>
+    <p>N Doudchenko, M Zhang✝, E Drynkin, EM Airoldi, V Mirrokni, J Pouget-Abadie. <a href="https://arxiv.org/abs/2010.02108"><strong>Causal inference with bipartite designs</strong></a>. <strong><em>arXiv</em></strong> no. 2010.02108, 2020.</p>
+  </li>
+  <li>
+    <p>D Tran✝, P Toulis✝, EM Airoldi. <a href="https://cran.r-project.org/web/packages/sgd/vignettes/sgd-jss.pdf"><strong>Stochastic gradient descent methods for parameter estimation at scale</strong></a>. <strong><em>Journal of Statistical Software</em></strong>. In press, 2020.</p>
+  </li>
+  <li>
+    <p>P Toulis✝, T Horel✝, EM Airoldi. <strong>The Proximal Robbins-Monro Method</strong>. <strong><em>Journal of the Royal Statistical Society, Series B</em></strong>. In press, 2020. (IBM Best student paper award at the New England Statistics Symposium 2018.)</p>
+  </li>
+  <li>
+    <p>L Forastiere✝, EM Airoldi, F Mealli. <a href="https://www.tandfonline.com/doi/abs/10.1080/01621459.2020.1768100"><strong>Identification and estimation of treatment and interference effects in observational studies on networks</strong></a>. <strong><em>Journal of the American Statistical Association</em></strong>. In press, 2020.</p>
+  </li>
+  <li>
+    <p>A Ghasemian, H Hosseinmardi, A Galstyan, EM Airoldi, A Clauset. Stacking Models for Nearly Optimal Link Prediction in Complex Networks. Proceedings of the National Academy of Sciences. In press, 2020.</p>
+  </li>
+</ol>
+
 **Selected Publications**   
 
 85.    N Doudchenko, M Zhang✝, E Drynkin, EM Airoldi, V Mirrokni, J Pouget-Abadie. [**Causal inference with bipartite designs**](https://arxiv.org/abs/2010.02108). ***arXiv*** no. 2010.02108, 2020.
