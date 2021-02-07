@@ -24,5 +24,5 @@ excerpt_separator: "<!--more-->"
 # google_site_verification: ""
 # bing_webmastertools_id: ""
 
-plugins_dir:
-- jekyll-sitemap
+bibliography_list_attributes: reversed: "reversed"
+
