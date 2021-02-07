@@ -26,3 +26,6 @@ excerpt_separator: "<!--more-->"
 
 plugins_dir:
 - jekyll-sitemap
+
+bibliography_list_attributes:
+reversed: "reversed"
