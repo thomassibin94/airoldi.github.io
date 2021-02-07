@@ -1,3 +1,29 @@
+https://stackoverflow.com/questions/25695000/how-to-display-a-reverse-ordered-list-in-html
+
+ul {
+    list-style-type:none;
+    counter-reset:item 6;
+}
+ul > li {
+    counter-increment:item -1;
+}
+ul > li:after {
+    content: counter(item);
+}
+
+
+
+
+https://stackoverflow.com/questions/10877/how-can-you-customize-the-numbers-in-an-ordered-list
+
+<ol>
+  <li value="3">This is item three.</li>
+  <li value="50">This is item fifty.</li>
+  <li value="100">This is item one hundred.</li>
+</ol>
+
+
+
 WORKING PAPERS
 
 * EM Airoldi. Fienberg-Fréchet bounds for ill-posed inverse problems. Under review. Invited at Annals of Applied Statistics.
